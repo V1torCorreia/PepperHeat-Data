@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Bell Pepper",
+    "minScoville": 0,
+    "maxScoville": 0,
+    "origin": "Central and South America",
+    "description": "Sweet and mild, bell peppers have no heat at all. Perfect for salads and cooking.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Green-Yellow-Red-Pepper-2009.jpg/320px-Green-Yellow-Red-Pepper-2009.jpg",
+    "level": 0
+  },
+  {
+    "name": "Poblano",
+    "minScoville": 1000,
+    "maxScoville": 2000,
+    "origin": "Mexico",
+    "description": "Mild pepper often used for chile rellenos. When dried, it's called an ancho pepper.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Poblano_Peppers.jpg/320px-Poblano_Peppers.jpg",
+    "level": 0
+  },
+  {
+    "name": "Jalapeño",
+    "minScoville": 2500,
+    "maxScoville": 8000,
+    "origin": "Mexico",
+    "description": "A popular medium-heat pepper, commonly used in Mexican cuisine. Great for salsas and poppers.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Jalape%C3%B1o.png/640px-Jalape%C3%B1o.png",
+    "level": 1
+  },
+  {
+    "name": "Serrano",
+    "minScoville": 10000,
+    "maxScoville": 25000,
+    "origin": "Mexico",
+    "description": "Hotter than jalapeño, serrano peppers are commonly used fresh in salsas and pico de gallo.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Serrano_Pepper.jpg/320px-Serrano_Pepper.jpg",
+    "level": 2
+  },
+  {
+    "name": "Cayenne",
+    "minScoville": 30000,
+    "maxScoville": 50000,
+    "origin": "French Guiana",
+    "description": "Often dried and ground into powder, cayenne adds significant heat to dishes.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cayenne_pepper.jpg/320px-Cayenne_pepper.jpg",
+    "level": 2
+  },
+  {
+    "name": "Thai Chili",
+    "minScoville": 50000,
+    "maxScoville": 100000,
+    "origin": "Thailand",
+    "description": "Small but mighty! Essential in Thai and Southeast Asian cooking.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Thai_peppers.jpg/320px-Thai_peppers.jpg",
+    "level": 3
+  },
+  {
+    "name": "Habanero",
+    "minScoville": 100000,
+    "maxScoville": 350000,
+    "origin": "Amazon",
+    "description": "Extremely hot with a fruity flavor. Popular in hot sauces and Caribbean cuisine.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Habanero_pepers.jpg/640px-Habanero_pepers.jpg",
+    "level": 3
+  },
+  {
+    "name": "Scotch Bonnet",
+    "minScoville": 100000,
+    "maxScoville": 350000,
+    "origin": "Caribbean",
+    "description": "Similar heat to habanero with a sweet, tropical flavor. Essential in jerk seasoning.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Scotch_bonnet.jpg/320px-Scotch_bonnet.jpg",
+    "level": 3
+  },
+  {
+    "name": "Ghost Pepper",
+    "minScoville": 800000,
+    "maxScoville": 1041427,
+    "origin": "India",
+    "description": "Also known as Bhut Jolokia, this was once the world's hottest pepper. Handle with extreme caution!",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bhut_Jolokia_pc.jpg/320px-Bhut_Jolokia_pc.jpg",
+    "level": 4
+  },
+  {
+    "name": "Carolina Reaper",
+    "minScoville": 1400000,
+    "maxScoville": 2200000,
+    "origin": "South Carolina, USA",
+    "description": "Currently holds the Guinness World Record for hottest pepper. Not for the faint of heart!",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Carolina_Reaper_pepper_pods_%28cropped%29.jpg/640px-Carolina_Reaper_pepper_pods_%28cropped%29.jpg",
+    "level": 4
+  }
+]
