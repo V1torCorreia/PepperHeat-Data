@@ -6,7 +6,7 @@
     "origin": "United States",
     "description": "**Pepper X** (*Capsicum chinense*) is a **super-hot chili pepper** developed by **Ed Currie** of the *PuckerButt Pepper Company* in South Carolina, USA. It averages around **2.69 million Scoville Heat Units (SHU)**, making it the **world’s hottest certified pepper**. The fruit is **wrinkled, elongated, and green-yellow to mustard-yellow**, used mainly for **extreme hot sauces** rather than casual consumption ([Wikipedia](https://en.wikipedia.org/wiki/Pepper_X?utm_source=chatgpt.com)).",
     "aditionalInfo": "The name **“Pepper X”** began as a **placeholder** during development, used while legal and trademark issues were pending. Currie chose the **“X”** to symbolize both the **unknown** and **extreme** qualities of this pepper ([Reddit](https://www.reddit.com/r/spicy/comments/179hz0i?utm_source=chatgpt.com)). It was created by **crossbreeding the Carolina Reaper** with another ultra-hot, undisclosed variety over nearly a decade, aiming to break heat records. The name conveys **mystery, danger, and innovation** in modern chili breeding ([Wikipedia](https://en.wikipedia.org/wiki/Pepper_X?utm_source=chatgpt.com)).",
-    "imageUrl": "",
+    "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Pepper_X.jpg",
     "level": 4
   },
   {
@@ -1079,4 +1079,5 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Cayenne.jpg",
     "level": 3
   }
+
 ]
