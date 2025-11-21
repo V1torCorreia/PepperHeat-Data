@@ -1,5 +1,15 @@
 [
   {
+    "name": "7-Pot Barrackapore",
+    "minScoville": 1000000,
+    "maxScoville": 1300000,
+    "origin": "Trinidad",
+    "description": "The *7-Pot Barrackpore* is a super-hot Trinidadian pepper reaching around **1,000,000–1,300,000 SHU**, known for its blistering heat and rugged, wrinkled pods. Its flavour is fruity with a slightly earthy bitterness, typical of many *Capsicum chinense* varieties. You’ll often find it in shades of red or chocolate, with elongated pods that sometimes develop a small “stinger.” More details about similar 7-Pot heat profiles can be found at [PepperScale](https://pepperscale.com/7-pot-pepper/). For general super-hot characteristics, see [ChiliPepperMadness](https://www.chilipeppermadness.com/chili-pepper-types/superhot-chili-peppers/).",
+    "aditionalInfo": "The name “**7-Pot**” comes from the folklore that a single pod can season **seven pots of stew**, a story widely repeated in Caribbean pepper culture and referenced on [PepperGeek](https://peppergeek.com/hot-pepper-scoville-scale/). The “**Barrackpore**” part refers to the town of **Barrackpore, Trinidad**, where this variant was identified; the town itself was named after Barrackpore in India, creating a unique cross-continental naming lineage documented on [Wikipedia](https://en.wikipedia.org/wiki/Barrackpore,_Trinidad_and_Tobago).",
+    "imageUrl": "https://www.chili-shop24.com/media/image/7e/3c/15/7_Pot_Barrackpore_Chili_Samen_1_600x600.jpg",
+    "level": 4
+  },
+  {
     "name": "Pepper X",
     "minScoville": 3180000,
     "maxScoville": 3180000,
@@ -1081,3 +1091,4 @@
   }
 
 ]
+
