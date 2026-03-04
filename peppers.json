@@ -9,8 +9,17 @@
     "imageUrl": "https://www.chili-shop24.com/media/image/7e/3c/15/7_Pot_Barrackpore_Chili_Samen_1_600x600.jpg",
     "shortDescription": "Super-hot Trinidad pepper with fruity and slightly earthy flavour and fierce heat.",
     "level": 4,
-    "flavorProfile": ["Fruity", "Citrus", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Pepper X",
@@ -22,8 +31,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Pepper_X.jpg",
     "shortDescription": "Pepper X is an extremely hot chili from the US with legendary heat, used mostly in sauces.",
     "level": 4,
-    "flavorProfile": ["Fruity", "Citrus", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Carolina Reaper",
@@ -35,8 +53,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/CarolinaReaper.png",
     "shortDescription": "The Carolina Reaper is the world's hottest pepper, bred by Ed Curlin. It has a fruity, sweet flavour before an intense, long-lasting burn.",
     "level": 4,
-    "flavorProfile": ["Fruity", "Citrus", "Sweet"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Trinidad Moruga Scorpion",
@@ -48,8 +75,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/TrinidadMorugaScorpion.jpg",
     "shortDescription": "Ultra-hot Trinidad pepper with fruity, smoky notes and powerful, lingering burn.",
     "level": 4,
-    "flavorProfile": ["Fruity", "Citrus", "Earthy"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Trinidad Scorpion Chocolate",
@@ -61,8 +97,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/TrinidadScorpionChocolate.jpg",
     "shortDescription": "Dark, smoky Trinidad scorpion pepper with intense heat and earthy undertones.",
     "level": 4,
-    "flavorProfile": ["Smoky", "Earthy", "Fruity"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Smoky",
+      "Earthy",
+      "Fruity"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "7 Pot Brain Strain",
@@ -74,8 +119,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/7PotBrainStrain.png",
     "shortDescription": "Super-hot pepper from Trinidad with a brain-like surface and fruity punch.",
     "level": 4,
-    "flavorProfile": ["Fruity", "Citrus", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Bedfordshire Super Naga",
@@ -87,8 +141,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/BedfordshireSuperNaga.jpg",
     "shortDescription": "British super-hot chili with fruity flavours and fierce heat.",
     "level": 4,
-    "flavorProfile": ["Fruity", "Citrus", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Dragon's Breath",
@@ -100,8 +163,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Dragon's_Breath_Pepper.jpg",
     "shortDescription": "Extreme heat pepper with tiny pods and a fiery punch, mainly for extracts.",
     "level": 4,
-    "flavorProfile": ["Fruity", "Citrus", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Dorset Naga",
@@ -113,8 +185,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Dorset_Naga_Peppers.jpg",
     "shortDescription": "Fruity and intense British-bred super-hot chili with slow-building heat.",
     "level": 4,
-    "flavorProfile": ["Fruity", "Citrus", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Naga Viper",
@@ -126,8 +207,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Naga_Viper.jpg",
     "shortDescription": "Hybrid super-hot chili with fruity, smoky flavour and high SHU range.",
     "level": 4,
-    "flavorProfile": ["Fruity", "Citrus", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Spanish Naga",
@@ -139,8 +229,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/SpanishNaga.jpeg",
     "shortDescription": "Super-hot Spanish Naga with a citrus-fruity aroma and serious heat.",
     "level": 4,
-    "flavorProfile": ["Fruity", "Citrus", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Bhut Jolokia Chocolate",
@@ -152,8 +251,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Bhut_Jolokia_Chocolate.jpg",
     "shortDescription": "Chocolate variant of the Bhut Jolokia with smoky, fruity notes and intense heat.",
     "level": 4,
-    "flavorProfile": ["Smoky", "Earthy", "Fruity"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Smoky",
+      "Earthy",
+      "Fruity"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Komodo Dragon",
@@ -164,8 +272,17 @@
     "aditionalInfo": "The name **“Komodo Dragon”** draws on both its intense heat and symbolic imagery. It was bred by UK grower Salvatore Genovese in Bedfordshire and named after the fierce Indonesian lizard, suggesting the pepper’s dominating power. The dramatic moniker reflects its status as the hottest commercially grown pepper in the UK at its debut, and conjures the idea of fiery, dragon‑like breath. Its name emphasises both **extreme potency** and **mythical intimidation**.",
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Komodo_Dragon.jpg",
     "level": 4,
-    "flavorProfile": ["Fruity", "Citrus", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "7 Pot Douglah",
@@ -177,8 +294,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/7-pot-douglah.jpg",
     "shortDescription": "Rare chocolate-brown Trinidad pepper with fruity, nutty, and earthy flavors and intense heat.",
     "level": 4,
-    "flavorProfile": ["Smoky", "Earthy", "Fruity"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Smoky",
+      "Earthy",
+      "Fruity"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Naga Morich",
@@ -190,8 +316,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/naga-morich.jpeg",
     "shortDescription": "Extremely hot chili from northeastern India and Bangladesh with fruity, slightly smoky flavor.",
     "level": 4,
-    "flavorProfile": ["Fruity", "Citrus", "Sweet"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Infinity Pepper",
@@ -203,8 +338,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/InfinityPepper.jpg",
     "shortDescription": "UK-bred super-hot chili with a fruity prelude and intense delayed burn.",
     "level": 4,
-    "flavorProfile": ["Fruity", "Citrus", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Ghost Pepper",
@@ -216,8 +360,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/GhostPepper.jpg",
     "shortDescription": "Ultra-hot chili from northeastern India with fruity, smoky flavor and intense heat.",
     "level": 4,
-    "flavorProfile": ["Fruity", "Citrus", "Smoky"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Smoky"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "7 Pot Brown",
@@ -229,8 +382,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/7PotBrown.jpg",
     "shortDescription": "Chocolate-brown Trinidad pepper with fruity, nutty undertones and intense heat.",
     "level": 4,
-    "flavorProfile": ["Smoky", "Earthy", "Fruity"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Smoky",
+      "Earthy",
+      "Fruity"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Trinidad Scorpion \"Butch-T\"",
@@ -242,8 +404,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Trinidad_Scorpion_Butch_T_Pepper.JPG",
     "shortDescription": "Ultra-hot Trinidad scorpion pepper with fruity, smoky notes and powerful, lingering burn.",
     "level": 4,
-    "flavorProfile": ["Fruity", "Citrus", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "7 Pot Jonah",
@@ -255,8 +426,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/7PotJonah.jpg",
     "shortDescription": "Trinidadian super-hot pepper with fruity, tropical flavor and intense heat.",
     "level": 4,
-    "flavorProfile": ["Fruity", "Citrus", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Dundicut",
@@ -268,8 +448,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Dundicut.jpg",
     "shortDescription": "Small, round Pakistani chili with fruity, smoky flavor and moderate heat.",
     "level": 2,
-    "flavorProfile": ["Smoky", "Earthy", "Sweet"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Smoky",
+      "Earthy",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Seasoning",
+      "Cooking Bases",
+      "Topping"
+    ]
   },
   {
     "name": "Pequin",
@@ -281,8 +470,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Pequin.jpg",
     "shortDescription": "Small Mexican chili with citrusy, nutty, and smoky flavor and moderate heat.",
     "level": 2,
-    "flavorProfile": ["Citrus", "Grassy", "Earthy"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Citrus",
+      "Grassy",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Topping"
+    ]
   },
   {
     "name": "Tabasco",
@@ -294,8 +492,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Tabasco.jpg",
     "shortDescription": "Small, slender Mexican chili with sharp, tangy flavor and moderate heat.",
     "level": 2,
-    "flavorProfile": ["Citrus", "Fruity", "Grassy"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Citrus",
+      "Fruity",
+      "Grassy"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Hot Sauce",
+      "Pickling",
+      "Topping"
+    ]
   },
   {
     "name": "Aurora",
@@ -307,8 +514,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Aurora.jpg",
     "shortDescription": "Upright ornamental Mexican chili with rainbow colors and moderate heat.",
     "level": 2,
-    "flavorProfile": ["Sweet", "Grassy", "Fruity"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Grassy",
+      "Fruity"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Pickling",
+      "Topping",
+      "Salsa"
+    ]
   },
   {
     "name": "Aji Amarillo",
@@ -320,8 +536,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/AjiAmarillo.jpg",
     "shortDescription": "Vibrant yellow-orange Peruvian chili with fruity, berry-like flavor and moderate heat.",
     "level": 2,
-    "flavorProfile": ["Fruity", "Citrus", "Sweet"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Salsa",
+      "Cooking Bases",
+      "Hot Sauce"
+    ]
   },
   {
     "name": "Black Cobra",
@@ -333,8 +558,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/BlackCobra.jpg",
     "shortDescription": "Unique Venezuelan chili with black pods ripening to red and moderate heat.",
     "level": 2,
-    "flavorProfile": ["Earthy", "Smoky", "Fruity"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Earthy",
+      "Smoky",
+      "Fruity"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Seasoning",
+      "Cooking Bases",
+      "Hot Sauce"
+    ]
   },
   {
     "name": "Jwala Finger Hot",
@@ -346,8 +580,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Jwala.jpg",
     "shortDescription": "Popular Indian chili with long, slender pods and moderate heat, staple in curries.",
     "level": 2,
-    "flavorProfile": ["Grassy", "Citrus", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Grassy",
+      "Citrus",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Cooking Bases",
+      "Seasoning",
+      "Topping"
+    ]
   },
   {
     "name": "Japones",
@@ -359,8 +602,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Japones.jpg",
     "shortDescription": "Slender, thin-walled Japanese chili with clean, sharp heat, ideal for drying.",
     "level": 2,
-    "flavorProfile": ["Smoky", "Earthy", "Sweet"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Smoky",
+      "Earthy",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Seasoning",
+      "Cooking Bases",
+      "Hot Sauce"
+    ]
   },
   {
     "name": "Lemon Drop",
@@ -372,8 +624,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/LemonDrop.jpg",
     "shortDescription": "Bright yellow Peruvian chili with lemony flavor and moderate heat, ideal for seafood.",
     "level": 2,
-    "flavorProfile": ["Citrus", "Fruity", "Sweet"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Citrus",
+      "Fruity",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Salsa",
+      "Topping"
+    ]
   },
   {
     "name": "Black Pearl",
@@ -385,8 +646,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/BlackPearl.jpg",
     "shortDescription": "Striking ornamental US chili with black pearl-like pods and moderate heat.",
     "level": 2,
-    "flavorProfile": ["Earthy", "Smoky", "Sweet"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Earthy",
+      "Smoky",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Pickling",
+      "Topping",
+      "Seasoning"
+    ]
   },
   {
     "name": "Manzano",
@@ -398,8 +668,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Manzano.jpg",
     "shortDescription": "Unique South American chili with apple-shaped pods, black seeds, and fruity flavor.",
     "level": 2,
-    "flavorProfile": ["Fruity", "Citrus", "Sweet"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Salsa",
+      "Pickling",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Chile de Arbol",
@@ -411,8 +690,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/ChileDeArbol.jpg",
     "shortDescription": "Slender Mexican chili with smoky and nutty flavor and moderate heat.",
     "level": 2,
-    "flavorProfile": ["Smoky", "Earthy", "Citrus"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Smoky",
+      "Earthy",
+      "Citrus"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Seasoning",
+      "Hot Sauce",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Bishop's Crown",
@@ -424,8 +712,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Bishops%20Crown.jpg",
     "shortDescription": "Uniquely shaped South American chili with sweet and fruity flavor and moderate heat.",
     "level": 2,
-    "flavorProfile": ["Sweet", "Fruity", "Citrus"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Fruity",
+      "Citrus"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Salsa",
+      "Pickling",
+      "Topping"
+    ]
   },
   {
     "name": "Hinkelhatz",
@@ -437,8 +734,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Hinkelhatz.jpg",
     "shortDescription": "Heirloom US chili with heart-shaped pods and sharp, tangy flavor, ideal for pickling.",
     "level": 2,
-    "flavorProfile": ["Citrus", "Grassy", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Citrus",
+      "Grassy",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Pickling",
+      "Topping"
+    ]
   },
   {
     "name": "Black Prince",
@@ -450,8 +756,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/BlackPrince.jpg",
     "shortDescription": "Ornamental chili with dark purple-black foliage and moderate heat.",
     "level": 1,
-    "flavorProfile": ["Sweet", "Earthy", "Fruity"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Earthy",
+      "Fruity"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Pickling",
+      "Topping",
+      "Seasoning"
+    ]
   },
   {
     "name": "Count Dracula",
@@ -463,8 +778,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Count%20Dracula.jpg",
     "shortDescription": "Striking ornamental chili with glossy black-purple foliage and moderate heat.",
     "level": 1,
-    "flavorProfile": ["Sweet", "Earthy", "Fruity"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Earthy",
+      "Fruity"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Pickling",
+      "Topping",
+      "Seasoning"
+    ]
   },
   {
     "name": "Bulgarian Carrot",
@@ -476,8 +800,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Bulgarian%20Carrot.jpg",
     "shortDescription": "Striking Bulgarian pepper with sweet-fruity flavor and medium heat.",
     "level": 1,
-    "flavorProfile": ["Sweet", "Citrus", "Fruity"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Citrus",
+      "Fruity"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Pickling",
+      "Hot Sauce",
+      "Salsa"
+    ]
   },
   {
     "name": "Fish Pepper",
@@ -489,8 +822,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/FishPepper.png",
     "shortDescription": "Heirloom chili with variegated foliage and moderate heat, ideal for seafood.",
     "level": 1,
-    "flavorProfile": ["Grassy", "Sweet", "Citrus"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Grassy",
+      "Sweet",
+      "Citrus"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Pickling",
+      "Topping"
+    ]
   },
   {
     "name": "Sport",
@@ -502,8 +844,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Sport.jpg",
     "shortDescription": "Small, medium-hot US chili with sharp flavor, iconic topping for Chicago-style hot dogs.",
     "level": 1,
-    "flavorProfile": ["Grassy", "Citrus", "Sweet"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Grassy",
+      "Citrus",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Pickling",
+      "Topping",
+      "Hot Sauce"
+    ]
   },
   {
     "name": "Peter Pepper",
@@ -515,8 +866,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/PeterPepper.jpg",
     "shortDescription": "Heirloom US chili with unusually contorted pods and moderate heat, often grown as a novelty.",
     "level": 1,
-    "flavorProfile": ["Sweet", "Earthy", "Fruity"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Earthy",
+      "Fruity"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Pickling",
+      "Salsa",
+      "Topping"
+    ]
   },
   {
     "name": "Hungarian Wax",
@@ -528,8 +888,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/HungarianWax.jpg",
     "shortDescription": "Medium-sized Hungarian chili with tangy, sweet flavor and moderate heat, ideal for pickling.",
     "level": 1,
-    "flavorProfile": ["Sweet", "Citrus", "Grassy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Citrus",
+      "Grassy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Pickling",
+      "Salsa",
+      "Topping"
+    ]
   },
   {
     "name": "Aleppo",
@@ -541,8 +910,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Aleppo.png",
     "shortDescription": "Medium-heat Syrian chili with complex, salty, fruity flavor, ideal for Middle Eastern cuisine.",
     "level": 1,
-    "flavorProfile": ["Smoky", "Sweet", "Earthy"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Smoky",
+      "Sweet",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Seasoning",
+      "Cooking Bases",
+      "Topping"
+    ]
   },
   {
     "name": "Fresno",
@@ -554,8 +932,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Fresno.jpg",
     "shortDescription": "Medium-sized US chili with smoky, fruity flavor and mild to moderate heat, popular in salsas.",
     "level": 1,
-    "flavorProfile": ["Sweet", "Fruity", "Grassy"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Sweet",
+      "Fruity",
+      "Grassy"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Salsa",
+      "Hot Sauce",
+      "Pickling"
+    ]
   },
   {
     "name": "Hatch",
@@ -567,8 +954,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Hatch.jpg",
     "shortDescription": "Cultural icon of New Mexico with rich, earthy flavor and mild to moderate heat.",
     "level": 0,
-    "flavorProfile": ["Earthy", "Smoky", "Sweet"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Earthy",
+      "Smoky",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Salsa",
+      "Cooking Bases",
+      "Seasoning"
+    ]
   },
   {
     "name": "Puya",
@@ -580,8 +976,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Puya.jpg",
     "shortDescription": "Slender Mexican chili with fruity, berry-like flavor and moderate heat, relative of the Guajillo.",
     "level": 1,
-    "flavorProfile": ["Smoky", "Earthy", "Sweet"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Smoky",
+      "Earthy",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Seasoning",
+      "Cooking Bases",
+      "Hot Sauce"
+    ]
   },
   {
     "name": "Chipotle",
@@ -593,8 +998,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Chipotle.jpg",
     "shortDescription": "Smoked and dried jalapeño with smoky, earthy flavor and medium heat.",
     "level": 0,
-    "flavorProfile": ["Smoky", "Sweet", "Earthy"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Smoky",
+      "Sweet",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Seasoning",
+      "Cooking Bases",
+      "Hot Sauce"
+    ]
   },
   {
     "name": "Espelette",
@@ -606,8 +1020,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Espelette.jpg",
     "shortDescription": "Mild French chili with sweet, fruity, and smoky flavor, staple in Basque cuisine.",
     "level": 0,
-    "flavorProfile": ["Sweet", "Fruity", "Smoky"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Sweet",
+      "Fruity",
+      "Smoky"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Seasoning",
+      "Topping",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Cherry Bomb",
@@ -619,8 +1042,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/CherryBomb.jpg",
     "shortDescription": "Small, round US chili with sweet and juicy flavor and mild to moderate heat, ideal for pickling.",
     "level": 0,
-    "flavorProfile": ["Sweet", "Fruity", "Citrus"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Sweet",
+      "Fruity",
+      "Citrus"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Pickling",
+      "Salsa",
+      "Topping"
+    ]
   },
   {
     "name": "Guajillo",
@@ -632,8 +1064,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Guajillo.jpg",
     "shortDescription": "Large Mexican dried chili with sweet, smoky flavor and mild heat, staple in moles.",
     "level": 0,
-    "flavorProfile": ["Smoky", "Sweet", "Earthy"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Smoky",
+      "Sweet",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Seasoning",
+      "Cooking Bases",
+      "Hot Sauce"
+    ]
   },
   {
     "name": "Numex Big Jim",
@@ -645,8 +1086,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/NumexBigJim.jpg",
     "shortDescription": "Exceptionally large US chili with mild to medium heat, ideal for roasting and stuffing.",
     "level": 0,
-    "flavorProfile": ["Grassy", "Sweet", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Grassy",
+      "Sweet",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Salsa",
+      "Cooking Bases",
+      "Pickling"
+    ]
   },
   {
     "name": "Cascabel",
@@ -658,8 +1108,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Cascabel.jpg",
     "shortDescription": "Small, round Mexican chili with nutty, earthy flavor and mild to medium heat.",
     "level": 0,
-    "flavorProfile": ["Smoky", "Earthy", "Sweet"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Smoky",
+      "Earthy",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Seasoning",
+      "Cooking Bases",
+      "Hot Sauce"
+    ]
   },
   {
     "name": "Alma Paprika",
@@ -671,8 +1130,17 @@
     "imageUrl": "https://heavenlyseed.net/wp-content/uploads/2023/04/paprika-g794f8a86e_1920-600x456.jpg",
     "shortDescription": "Mild to moderate Hungarian chili with sweet, crisp flavor and ideal for drying into paprika.",
     "level": 0,
-    "flavorProfile": ["Sweet", "Fruity", "Smoky"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Fruity",
+      "Smoky"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Seasoning",
+      "Pickling",
+      "Topping"
+    ]
   },
   {
     "name": "Italian Long Hot",
@@ -684,8 +1152,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Italian-Long-Hots-Peppers.jpg",
     "shortDescription": "Elongated Italian chili with sweet, tangy flavor and mild spiciness.",
     "level": 0,
-    "flavorProfile": ["Sweet", "Grassy", "Citrus"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Grassy",
+      "Citrus"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Salsa",
+      "Pickling",
+      "Topping"
+    ]
   },
   {
     "name": "Cubanelle",
@@ -697,8 +1174,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Cubanelle_Peppers.jpg",
     "shortDescription": "Mild sweet pepper with thin walls and a tapered shape, ideal for stuffing and sautéing.",
     "level": 0,
-    "flavorProfile": ["Sweet", "Grassy", "Citrus"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Sweet",
+      "Grassy",
+      "Citrus"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Salsa",
+      "Cooking Bases",
+      "Topping"
+    ]
   },
   {
     "name": "Peppadew",
@@ -710,8 +1196,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Peppadew.jpg",
     "shortDescription": "Sweet-and-tangy chili with mild heat, ideal for pickling and adding vibrant flavor.",
     "level": 0,
-    "flavorProfile": ["Sweet", "Fruity", "Citrus"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Fruity",
+      "Citrus"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Pickling",
+      "Topping",
+      "Salsa"
+    ]
   },
   {
     "name": "Cajun Belle",
@@ -723,8 +1218,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/CajunBelle.jpg",
     "shortDescription": "Small, blocky US pepper with sweet flavor and mild spicy finish, ideal for appetizers.",
     "level": 0,
-    "flavorProfile": ["Sweet", "Fruity", "Grassy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Fruity",
+      "Grassy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Pickling",
+      "Salsa",
+      "Topping"
+    ]
   },
   {
     "name": "Pepperoncini",
@@ -736,8 +1240,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Pepperoncini.jpg",
     "shortDescription": "Mild, tangy Italian chili with sweet and acidic flavor, staple in salads and sandwiches.",
     "level": 0,
-    "flavorProfile": ["Citrus", "Sweet", "Grassy"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Citrus",
+      "Sweet",
+      "Grassy"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Pickling",
+      "Topping",
+      "Salsa"
+    ]
   },
   {
     "name": "Pimiento",
@@ -749,8 +1262,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Pimiento.jpg",
     "shortDescription": "Small, heart-shaped Spanish pepper with sweet flavor and very low heat, ideal for stuffing olives.",
     "level": 0,
-    "flavorProfile": ["Sweet", "Fruity", "Grassy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Fruity",
+      "Grassy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Pickling",
+      "Cooking Bases",
+      "Topping"
+    ]
   },
   {
     "name": "Carmen Italian Sweet",
@@ -762,8 +1284,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/CarmenItalianSweet.jpg",
     "shortDescription": "Bull's-horn style Italian sweet pepper with zero heat, ideal for grilling and roasting.",
     "level": 0,
-    "flavorProfile": ["Sweet", "Fruity", "Grassy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Fruity",
+      "Grassy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Salsa",
+      "Cooking Bases",
+      "Topping"
+    ]
   },
   {
     "name": "Banana Pepper",
@@ -775,8 +1306,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/BananaPepper.jpg",
     "shortDescription": "Mild sweet pepper with elongated shape and bright yellow color, popular in pickling and salads.",
     "level": 0,
-    "flavorProfile": ["Sweet", "Citrus", "Grassy"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Sweet",
+      "Citrus",
+      "Grassy"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Pickling",
+      "Salsa",
+      "Topping"
+    ]
   },
   {
     "name": "Santa Fe Grande",
@@ -788,8 +1328,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/SantaFeGrande.jpg",
     "shortDescription": "Prolific and hardy US chili with sweet, slightly smoky flavor and mild heat.",
     "level": 0,
-    "flavorProfile": ["Sweet", "Grassy", "Citrus"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Grassy",
+      "Citrus"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Pickling",
+      "Salsa",
+      "Hot Sauce"
+    ]
   },
   {
     "name": "Italian Sweet",
@@ -801,8 +1350,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/ItalianSweet.jpg",
     "shortDescription": "Bull's-horn style Italian pepper with zero heat and high sugar content, ideal for frying.",
     "level": 0,
-    "flavorProfile": ["Sweet", "Fruity", "Grassy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Fruity",
+      "Grassy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Salsa",
+      "Cooking Bases",
+      "Topping"
+    ]
   },
   {
     "name": "Melrose",
@@ -814,8 +1372,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Melrose.jpg",
     "shortDescription": "Heirloom Italian frying pepper with zero heat and rich, sweet flavor, Chicago regional favorite.",
     "level": 0,
-    "flavorProfile": ["Sweet", "Fruity", "Grassy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Fruity",
+      "Grassy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Salsa",
+      "Cooking Bases",
+      "Topping"
+    ]
   },
   {
     "name": "Purple Beauty",
@@ -827,8 +1394,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/PurpleBeauty.jpg",
     "shortDescription": "Stunning US bell pepper with zero heat and deep purple color, ideal for salads.",
     "level": 0,
-    "flavorProfile": ["Sweet", "Grassy", "Fruity"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Grassy",
+      "Fruity"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Salsa",
+      "Pickling",
+      "Topping"
+    ]
   },
   {
     "name": "7 Pot Bubblegum",
@@ -840,8 +1416,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/7PotBubblegum.jpg",
     "shortDescription": "Exotic super-hot UK chili with bubblegum-like flavor and unique bleeding calyx.",
     "level": 4,
-    "flavorProfile": ["Fruity", "Citrus", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "7 Pot Primo",
@@ -853,8 +1438,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/7PotPrimo.jpg",
     "shortDescription": "Legendary US super-hot pepper with long stinger tail and devastating heat.",
     "level": 4,
-    "flavorProfile": ["Fruity", "Citrus", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "7 Pot Yellow",
@@ -866,8 +1460,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/7PotYellow.jpg",
     "shortDescription": "Vibrant golden Trinidad pepper with tropical fruit flavor and intense heat.",
     "level": 4,
-    "flavorProfile": ["Fruity", "Citrus", "Sweet"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Aji Cachucha",
@@ -879,8 +1482,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/AjiCachucha.jpg",
     "shortDescription": "Small, mild Cuban pepper with squashed lantern shape and sweet aroma, ideal for sofrito.",
     "level": 0,
-    "flavorProfile": ["Sweet", "Fruity", "Citrus"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Fruity",
+      "Citrus"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Salsa",
+      "Pickling",
+      "Topping"
+    ]
   },
   {
     "name": "Aji Cristal",
@@ -892,8 +1504,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/AjiCristal.jpg",
     "shortDescription": "Popular Chilean chili with translucent waxy skin, citrusy flavor, and moderate heat.",
     "level": 2,
-    "flavorProfile": ["Fruity", "Citrus", "Sweet"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Salsa",
+      "Hot Sauce",
+      "Topping"
+    ]
   },
   {
     "name": "Aji Dulce",
@@ -905,8 +1526,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/AjiDulce.jpg",
     "shortDescription": "Mild and aromatic chili with sweet, fruity flavor, ideal for Caribbean sofrito and seasoning.",
     "level": 1,
-    "flavorProfile": ["Sweet", "Fruity", "Citrus"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Fruity",
+      "Citrus"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Salsa",
+      "Cooking Bases",
+      "Topping"
+    ]
   },
   {
     "name": "Aji Fantasy",
@@ -918,8 +1548,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/AjiFantasy.jpg",
     "shortDescription": "Sweet and crisp Brazilian-Finnish chili with bell-shaped pods and mild to medium heat.",
     "level": 2,
-    "flavorProfile": ["Fruity", "Sweet", "Citrus"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Sweet",
+      "Citrus"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Salsa",
+      "Hot Sauce",
+      "Topping"
+    ]
   },
   {
     "name": "Aji Habanero",
@@ -931,8 +1570,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/AjiHabanero.jpg",
     "shortDescription": "Sweet and floral South American chili with finger-like pods and moderate heat.",
     "level": 2,
-    "flavorProfile": ["Fruity", "Citrus", "Sweet"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Salsa",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Aji Omnicolor",
@@ -944,8 +1592,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/AjiOmnicolor.jpg",
     "shortDescription": "Stunning Peruvian chili with vertical pods displaying a range of colors and moderate heat.",
     "level": 2,
-    "flavorProfile": ["Fruity", "Sweet", "Citrus"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Sweet",
+      "Citrus"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Pickling",
+      "Topping",
+      "Salsa"
+    ]
   },
   {
     "name": "Aji Pineapple",
@@ -957,8 +1614,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/AjiPineapple.jpeg",
     "shortDescription": "Medium-hot chili with fruity and citrusy flavor, ideal for those seeking a colorful and flavorful pepper.",
     "level": 2,
-    "flavorProfile": ["Fruity", "Citrus", "Sweet"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Salsa",
+      "Topping"
+    ]
   },
   {
     "name": "Apache",
@@ -970,8 +1636,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Apache.jpg",
     "shortDescription": "Compact and prolific chili with intense heat, ideal for container gardening and hot sauces.",
     "level": 4,
-    "flavorProfile": ["Grassy", "Citrus", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Grassy",
+      "Citrus",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Pickling",
+      "Topping"
+    ]
   },
   {
     "name": "Bahamian Goat",
@@ -983,8 +1658,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/BahamianGoat.jpg",
     "shortDescription": "Fiery Bahamian chili with sweet and tropical flavor, ideal for traditional sauces.",
     "level": 3,
-    "flavorProfile": ["Fruity", "Citrus", "Sweet"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Cooking Bases",
+      "Salsa"
+    ]
   },
   {
     "name": "Beaver Dam",
@@ -996,8 +1680,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/BeaverDam.jpg",
     "shortDescription": "Large heirloom Hungarian-US chili with mild heat and crunchy texture, ideal for stuffing.",
     "level": 0,
-    "flavorProfile": ["Sweet", "Grassy", "Citrus"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Grassy",
+      "Citrus"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Pickling",
+      "Salsa",
+      "Topping"
+    ]
   },
   {
     "name": "Bell Pepper",
@@ -1009,8 +1702,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/BellPepper.jpg",
     "shortDescription": "World's most popular sweet pepper with zero heat, defined by its blocky shape and crunchy texture.",
     "level": 0,
-    "flavorProfile": ["Sweet", "Grassy", "Fruity"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Grassy",
+      "Fruity"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Salsa",
+      "Cooking Bases",
+      "Topping"
+    ]
   },
   {
     "name": "Bird's Eye",
@@ -1022,8 +1724,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/BirdsEye.jpg",
     "shortDescription": "Small but potent Ethiopian-Thai chili with clean heat, staple in Asian and African cuisines.",
     "level": 3,
-    "flavorProfile": ["Citrus", "Grassy", "Earthy"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Citrus",
+      "Grassy",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Hot Sauce",
+      "Cooking Bases",
+      "Topping"
+    ]
   },
   {
     "name": "Chilaca",
@@ -1035,8 +1746,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Chilaca.jpg",
     "shortDescription": "Long, narrow Mexican chili with mild heat and rich, earthy flavor, known as Pasilla when dried.",
     "level": 0,
-    "flavorProfile": ["Earthy", "Smoky", "Sweet"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Earthy",
+      "Smoky",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Cooking Bases",
+      "Seasoning",
+      "Salsa"
+    ]
   },
   {
     "name": "Chiltepin",
@@ -1048,8 +1768,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Chiltepin.jpg",
     "shortDescription": "Tiny wild Mexican-US chili with intense, quick-dissipating heat, known as the 'mother of all peppers'.",
     "level": 3,
-    "flavorProfile": ["Citrus", "Earthy", "Fruity"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Citrus",
+      "Earthy",
+      "Fruity"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Topping"
+    ]
   },
   {
     "name": "Chinese Five Color",
@@ -1061,8 +1790,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/ChineseFiveColor.jpg",
     "shortDescription": "Spectacular Chinese chili displaying five vibrant colors with moderate heat.",
     "level": 2,
-    "flavorProfile": ["Sweet", "Fruity", "Grassy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Fruity",
+      "Grassy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Pickling",
+      "Topping",
+      "Hot Sauce"
+    ]
   },
   {
     "name": "Chocolate Habanero",
@@ -1074,8 +1812,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Chocolate%20Habanero.jpg",
     "shortDescription": "Super-hot Jamaican chili with deep chocolate brown color and rich, smoky flavor.",
     "level": 3,
-    "flavorProfile": ["Smoky", "Fruity", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Smoky",
+      "Fruity",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Cooking Bases",
+      "Seasoning"
+    ]
   },
   {
     "name": "Corbaci",
@@ -1087,8 +1834,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Corbaci.jpeg",
     "shortDescription": "Slender and elongated sweet pepper with rich flavor, ideal for fresh eating and frying.",
     "level": 2,
-    "flavorProfile": ["Sweet", "Grassy", "Citrus"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Grassy",
+      "Citrus"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Salsa",
+      "Pickling",
+      "Topping"
+    ]
   },
   {
     "name": "Costa Rican Sweet",
@@ -1100,8 +1856,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/CostaRicanSweet.jpeg",
     "shortDescription": "Sweet and flavorful pepper with medium-thick flesh, ideal for salads and roasting.",
     "level": 1,
-    "flavorProfile": ["Sweet", "Fruity", "Grassy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Fruity",
+      "Grassy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Salsa",
+      "Cooking Bases",
+      "Topping"
+    ]
   },
   {
     "name": "Datil",
@@ -1113,8 +1878,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Datil.jpg",
     "shortDescription": "Small but explosive US chili with sweet, fruity, and nutty flavor, iconic to St. Augustine, Florida.",
     "level": 3,
-    "flavorProfile": ["Fruity", "Sweet", "Citrus"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Fruity",
+      "Sweet",
+      "Citrus"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Hot Sauce",
+      "Salsa",
+      "Pickling"
+    ]
   },
   {
     "name": "Devil's Tongue",
@@ -1126,8 +1900,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/DevilsTongue.jpg",
     "shortDescription": "Ultra-hot US chili with long, tapered pods and bright, citrusy flavor.",
     "level": 3,
-    "flavorProfile": ["Fruity", "Citrus", "Sweet"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Cooking Bases",
+      "Seasoning"
+    ]
   },
   {
     "name": "Elephant Trunk",
@@ -1139,8 +1922,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/ElephantTrunk.jpg",
     "shortDescription": "Unique Indian chili with exceptionally long pods and mild heat, ideal for frying and roasting.",
     "level": 0,
-    "flavorProfile": ["Sweet", "Grassy", "Fruity"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Sweet",
+      "Grassy",
+      "Fruity"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Salsa",
+      "Cooking Bases",
+      "Topping"
+    ]
   },
   {
     "name": "Fatalii",
@@ -1152,8 +1944,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Fatalii.jpg",
     "shortDescription": "Ultra-hot African chili with thin-walled yellow pods and bright, citrusy flavor.",
     "level": 3,
-    "flavorProfile": ["Citrus", "Fruity", "Sweet"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Citrus",
+      "Fruity",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Hot Sauce",
+      "Salsa",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Habanero",
@@ -1165,8 +1966,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Habanero.jpg",
     "shortDescription": "One of the most popular hot chilies in the world with fruity, floral flavor and intense heat.",
     "level": 3,
-    "flavorProfile": ["Fruity", "Citrus", "Sweet"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Hot Sauce",
+      "Salsa",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Jalapeño",
@@ -1178,8 +1988,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Jalape%C3%B1o.jpg",
     "shortDescription": "World's most famous chili with crisp, grassy flavor and approachable heat.",
     "level": 0,
-    "flavorProfile": ["Grassy", "Sweet", "Citrus"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Grassy",
+      "Sweet",
+      "Citrus"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Salsa",
+      "Hot Sauce",
+      "Nachos"
+    ]
   },
   {
     "name": "Joe's Long Cayenne",
@@ -1191,8 +2010,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/JoesLongCayenne.jpg",
     "shortDescription": "Heirloom Italian-US chili with exceptionally long pods and sharp, clean heat.",
     "level": 2,
-    "flavorProfile": ["Smoky", "Earthy", "Citrus"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Smoky",
+      "Earthy",
+      "Citrus"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Madame Jeanette",
@@ -1204,8 +2032,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/MadameJeanette.jpg",
     "shortDescription": "Ultra-hot Surinamese chili with elongated yellow pods and fruity, aromatic flavor.",
     "level": 3,
-    "flavorProfile": ["Fruity", "Citrus", "Sweet"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Salsa",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Malagueta",
@@ -1217,8 +2054,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Malagueta.jpg",
     "shortDescription": "Small Brazilian-Portuguese chili with sharp heat and subtle fruity flavor, ideal for marinades.",
     "level": 4,
-    "flavorProfile": ["Citrus", "Fruity", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Citrus",
+      "Fruity",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Cooking Bases",
+      "Seasoning"
+    ]
   },
   {
     "name": "Piri-Piri",
@@ -1230,8 +2076,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/piri-piri.jpg",
     "shortDescription": "Small yet intensely hot chili with clean pepper flavor, ideal for drying and hot sauces.",
     "level": 3,
-    "flavorProfile": ["Citrus", "Fruity", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Citrus",
+      "Fruity",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Cooking Bases",
+      "Topping"
+    ]
   },
   {
     "name": "Jindungo",
@@ -1243,8 +2098,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Jindungo.jpg",
     "shortDescription": "Compact and potent chili with clean, fiery flavor, ideal for drying and spicy condiments.",
     "level": 3,
-    "flavorProfile": ["Citrus", "Fruity", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Citrus",
+      "Fruity",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Cooking Bases",
+      "Seasoning"
+    ]
   },
   {
     "name": "Maule's Red Hot",
@@ -1256,8 +2120,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/MaulesRedHot.jpg",
     "shortDescription": "American heirloom chili with long, slender pods and sharp, clean heat.",
     "level": 4,
-    "flavorProfile": ["Smoky", "Earthy", "Citrus"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Smoky",
+      "Earthy",
+      "Citrus"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Mulato",
@@ -1269,8 +2142,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Mulato.jpg",
     "shortDescription": "Mild Mexican dried chili with deep, smoky flavor and hints of chocolate, essential for moles.",
     "level": 0,
-    "flavorProfile": ["Smoky", "Earthy", "Sweet"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Smoky",
+      "Earthy",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Cooking Bases",
+      "Seasoning",
+      "Hot Sauce"
+    ]
   },
   {
     "name": "NuMex Heritage Big Jim",
@@ -1282,8 +2164,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/NuMexHeritageBigJim.jpg",
     "shortDescription": "Refined version of the Big Jim US chili with traditional flavor and mild heat, ideal for roasting.",
     "level": 0,
-    "flavorProfile": ["Grassy", "Sweet", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Grassy",
+      "Sweet",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Salsa",
+      "Cooking Bases",
+      "Pickling"
+    ]
   },
   {
     "name": "Orange Thai",
@@ -1295,8 +2186,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/OrangeThai.jpg",
     "shortDescription": "Vibrant high-heat Thai chili with brilliant orange pods and fruity flavor.",
     "level": 4,
-    "flavorProfile": ["Citrus", "Fruity", "Earthy"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Citrus",
+      "Fruity",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Cooking Bases",
+      "Topping"
+    ]
   },
   {
     "name": "Padron",
@@ -1308,8 +2208,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Padron.jpg",
     "shortDescription": "Famous Spanish chili with 'Russian Roulette' heat and nutty flavor, staple in tapas.",
     "level": 0,
-    "flavorProfile": ["Grassy", "Earthy", "Sweet"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Grassy",
+      "Earthy",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Topping",
+      "Salsa",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Poblano",
@@ -1321,8 +2230,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Poblano.jpg",
     "shortDescription": "Large Mexican chili with rich, earthy flavor and mild heat, known as Ancho when dried.",
     "level": 0,
-    "flavorProfile": ["Earthy", "Smoky", "Sweet"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Earthy",
+      "Smoky",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Cooking Bases",
+      "Salsa",
+      "Seasoning"
+    ]
   },
   {
     "name": "Red Savina Habanero",
@@ -1334,8 +2252,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/RedSavinaHabanero.jpg",
     "shortDescription": "Former world record holder US chili with deep red pods and intense fruity sweetness.",
     "level": 3,
-    "flavorProfile": ["Fruity", "Citrus", "Sweet"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Salsa",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Rocoto",
@@ -1347,8 +2274,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Rocoto.jpg",
     "shortDescription": "Unique Andean chili with black seeds, hairy leaves, and juicy, fruity flavor.",
     "level": 2,
-    "flavorProfile": ["Fruity", "Citrus", "Sweet"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Salsa",
+      "Pickling",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Scotch Bonnet",
@@ -1360,8 +2296,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/ScotchBonnet.jpg",
     "shortDescription": "Essential Jamaican chili with squashed bonnet shape and sweet, tropical flavor.",
     "level": 3,
-    "flavorProfile": ["Fruity", "Citrus", "Sweet"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Fruity",
+      "Citrus",
+      "Sweet"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Hot Sauce",
+      "Salsa",
+      "Cooking Bases"
+    ]
   },
   {
     "name": "Serrano",
@@ -1373,8 +2318,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Serrano.jpg",
     "shortDescription": "Slender Mexican chili with crisp, bright flavor and moderate heat, hotter than a jalapeño.",
     "level": 2,
-    "flavorProfile": ["Grassy", "Citrus", "Earthy"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Grassy",
+      "Citrus",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Salsa",
+      "Hot Sauce",
+      "Topping"
+    ]
   },
   {
     "name": "Shishito",
@@ -1386,8 +2340,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Shishito.jpg",
     "shortDescription": "Mild Japanese chili with sweet, grassy flavor, traditionally blistered and served as an appetizer.",
     "level": 0,
-    "flavorProfile": ["Grassy", "Sweet", "Earthy"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Grassy",
+      "Sweet",
+      "Earthy"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Topping",
+      "Cooking Bases",
+      "Salsa"
+    ]
   },
   {
     "name": "Thai Dragon",
@@ -1399,8 +2362,17 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/ThaiDragon.jpg",
     "shortDescription": "Sleek chili with fierce heat and crisp flavor, ideal for Asian-style dishes.",
     "level": 4,
-    "flavorProfile": ["Citrus", "Earthy", "Fruity"],
-    "flavorProfileConfidence": "estimated"
+    "flavorProfile": [
+      "Citrus",
+      "Earthy",
+      "Fruity"
+    ],
+    "flavorProfileConfidence": "estimated",
+    "uses": [
+      "Hot Sauce",
+      "Cooking Bases",
+      "Topping"
+    ]
   },
   {
     "name": "Cayenne",
@@ -1412,7 +2384,16 @@
     "imageUrl": "https://pepperpics.blob.core.windows.net/pics/Cayenne.jpg",
     "shortDescription": "Slender red chili with sharp heat, commonly dried and ground into spice powder.",
     "level": 4,
-    "flavorProfile": ["Smoky", "Earthy", "Citrus"],
-    "flavorProfileConfidence": "high"
+    "flavorProfile": [
+      "Smoky",
+      "Earthy",
+      "Citrus"
+    ],
+    "flavorProfileConfidence": "high",
+    "uses": [
+      "Hot Sauce",
+      "Seasoning",
+      "Cooking Bases"
+    ]
   }
 ]
