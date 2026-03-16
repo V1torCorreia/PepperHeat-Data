@@ -15,10 +15,10 @@
       "Earthy"
     ],
     "flavorProfileConfidence": "estimated",
-    "uses": [
-      "Hot Sauce",
-      "Seasoning",
-      "Cooking Bases"
+    "commonUses": [
+      { "emoji": "🍶", "label": "Hot Sauce" },
+      { "emoji": "🧂", "label": "Seasoning" },
+      { "emoji": "🍲", "label": "Cooking Bases" }
     ]
   },
   {
