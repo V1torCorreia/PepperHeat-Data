@@ -180,9 +180,9 @@
                 "label": "Seasoning"
             },
             {
-                "emoji": "🍲",
-                "label": "Cooking Bases"
-            }
+                "emoji": "🥣",
+                "label": "Salsa"
+            },
         ]
     },
     {
@@ -613,9 +613,9 @@
                 "label": "Seasoning"
             },
             {
-                "emoji": "🍲",
-                "label": "Cooking Bases"
-            }
+                "emoji": "🥣",
+                "label": "Salsa"
+            },
         ]
     },
     {
@@ -675,9 +675,9 @@
                 "label": "Seasoning"
             },
             {
-                "emoji": "🍽️",
-                "label": "Topping"
-            }
+                "emoji": "🥣",
+                "label": "Salsa"
+            },
         ]
     },
     {
@@ -857,8 +857,8 @@
                 "label": "Seasoning"
             },
             {
-                "emoji": "🍲",
-                "label": "Cooking Bases"
+                "emoji": "🥣",
+                "label": "Salsa"
             },
             {
                 "emoji": "🍶",
@@ -919,8 +919,8 @@
                 "label": "Pickling"
             },
             {
-                "emoji": "🍽️",
-                "label": "Topping"
+                "emoji": "🥣",
+                "label": "Salsa"
             },
             {
                 "emoji": "🧂",
@@ -950,8 +950,8 @@
                 "label": "Salsa"
             },
             {
-                "emoji": "🥒",
-                "label": "Pickling"
+                "emoji": "🍶",
+                "label": "Hot Sauce"
             },
             {
                 "emoji": "🍲",
@@ -985,8 +985,8 @@
                 "label": "Hot Sauce"
             },
             {
-                "emoji": "🍲",
-                "label": "Cooking Bases"
+                "emoji": "🥣",
+                "label": "Salsa"
             }
         ]
     },
@@ -1384,8 +1384,8 @@
                 "label": "Seasoning"
             },
             {
-                "emoji": "🍲",
-                "label": "Cooking Bases"
+                "emoji": "🥣",
+                "label": "Salsa"
             },
             {
                 "emoji": "🍶",
@@ -1419,8 +1419,8 @@
                 "label": "Cooking Bases"
             },
             {
-                "emoji": "🍶",
-                "label": "Hot Sauce"
+                "emoji": "🥣",
+                "label": "Salsa"
             }
         ]
     },
@@ -1574,8 +1574,8 @@
                 "label": "Cooking Bases"
             },
             {
-                "emoji": "🍶",
-                "label": "Hot Sauce"
+                "emoji": "🥣",
+                "label": "Salsa"
             }
         ]
     },
@@ -2531,8 +2531,8 @@
                 "label": "Pickling"
             },
             {
-                "emoji": "🍽️",
-                "label": "Topping"
+                "emoji": "🥣",
+                "label": "Salsa"
             },
             {
                 "emoji": "🍶",
@@ -2686,8 +2686,8 @@
                 "label": "Hot Sauce"
             },
             {
-                "emoji": "🍲",
-                "label": "Cooking Bases"
+                "emoji": "🥣",
+                "label": "Salsa"
             },
             {
                 "emoji": "🧂",
@@ -3302,8 +3302,8 @@
         "flavorProfileConfidence": "high",
         "commonUses": [
             {
-                "emoji": "🍽️",
-                "label": "Topping"
+                "emoji": "🥒",
+                "label": "Pickling"
             },
             {
                 "emoji": "🍲",
